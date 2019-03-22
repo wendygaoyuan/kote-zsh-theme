@@ -1,5 +1,6 @@
 # kote-zsh-theme
-A zsh theme
+A zsh theme  
+![theme demo](http://cdn.gaoquanquan.com/github/kote.zsh-theme.jpg)
 ## Usage
 Install using Git
 ``` bash
