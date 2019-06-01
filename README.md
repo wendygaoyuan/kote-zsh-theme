@@ -18,4 +18,4 @@ vi ~/.zshrc
 source ~/.zshrc
 ```
 ## Colors
-Import kote.itermcolors 
+Import kote.itermcolors or Kote.terminal
