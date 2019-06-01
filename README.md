@@ -1,7 +1,7 @@
 # kote-zsh-theme
 A zsh theme  
 ## Screenshot
-![theme demo](http://cdn.gaoquanquan.com/github/kote.zsh-theme.jpg)
+![theme demo](https://raw.githubusercontent.com/wendygaoyuan/kote-zsh-theme/master/Screenshot.png)
 ## Usage
 Install using Git
 ``` bash
@@ -17,3 +17,5 @@ vi ~/.zshrc
 // ZSH_THEME="kote"
 source ~/.zshrc
 ```
+## Colors
+Import kote.itermcolors 
