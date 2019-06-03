@@ -1,5 +1,5 @@
-# kote-zsh-theme
-A zsh theme  
+# Kote
+Pretty and minimal ZSH theme 
 ## Screenshot
 ![theme demo](https://raw.githubusercontent.com/wendygaoyuan/kote-zsh-theme/master/Screenshot.png)
 ## Usage
